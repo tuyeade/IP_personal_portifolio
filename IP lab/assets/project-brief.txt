@@ -1,0 +1,17 @@
+﻿Project Brief: Personal Portfolio
+
+Goal: Create a personal website that introduces the student, highlights skills, and presents projects.
+
+Sections:
+- Home
+- About Me
+- Skills and Education
+- Projects and Achievements
+- Media and Interests
+- Contact
+
+Requirements:
+- Clear navigation between pages
+- Semantic HTML structure
+- Accessible images and forms
+- Page content should be meaningful and personal
